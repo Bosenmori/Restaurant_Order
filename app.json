@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Restaurant_Order",
-    "slug": "Restaurant_Order",
+    "name": "RestaurantOrderApp",
+    "slug": "RestaurantOrderApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
